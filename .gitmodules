@@ -1,0 +1,3 @@
+[submodule "theme"]
+	path = theme
+	url = git@gitorious.org:fscons-web/fscons-theme.git
